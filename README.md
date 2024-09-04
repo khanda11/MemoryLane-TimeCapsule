@@ -1,6 +1,5 @@
 # MemoryLane-TimeCapsule
 
-Demo
 Check out a [live demo video of MemoryLane](https://www.loom.com/share/40dcca6fae6e46a5ae0034476fc4f729) to see the app in action!
 
 MemoryLane is an iOS application that allows users to create, manage, and unlock time capsule entries. Users can store their treasured memories and set a future unlock date for each entry. This app is built using a combination of Swift, SwiftUI, and a backend powered by TypeScript and MongoDB.
